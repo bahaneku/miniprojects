@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# My Additions
+config.py
+
 # Distribution / packaging
 .Python
 build/
@@ -76,7 +79,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-config.py
+
 
 # IPython
 profile_default/
